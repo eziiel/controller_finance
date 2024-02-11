@@ -1,3 +1,9 @@
 export default function Home() {
-  return <p>ola</p>
+  return (
+    <main>
+      <header>financial control</header>
+      <section>form access</section>
+      <footer>footer</footer>
+    </main>
+  )
 }
