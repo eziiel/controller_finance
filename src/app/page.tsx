@@ -1,4 +1,4 @@
-import FormAccess from '../components/form-access'
+import FormAccess from '@/components/form-access'
 
 export default function Home() {
   return (
