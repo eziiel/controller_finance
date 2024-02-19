@@ -34,7 +34,7 @@ export default function FormAccess() {
       
       shadow-bigComponentBlack
       data-[loading=true]:shadow-bigComponentBlue
-      data-[success-access=true]:shadow-bigComponentGreen
+      data-[error-access=true]:shadow-bigComponentGreen
     "
     >
       <h1
